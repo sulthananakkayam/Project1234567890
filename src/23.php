@@ -1,0 +1,6 @@
+<?php
+// Your secret key goes here...
+$secret_key = "your_secret_key";
+
+// Some sample PHP code...
+
